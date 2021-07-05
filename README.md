@@ -5,3 +5,4 @@ As The Eagle said:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshSingh20&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=ShreyanshSingh20)
